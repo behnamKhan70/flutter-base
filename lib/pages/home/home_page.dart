@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import 'home_controller.dart';
 
 class HomePage extends GetView<HomeController> {
-  final HomeController logic = Get.put(HomeController());
+  // final HomeController logic = Get.put(HomeController());
 
   @override
   Widget build(BuildContext context) {

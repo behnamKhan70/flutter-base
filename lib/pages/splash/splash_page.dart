@@ -6,7 +6,7 @@ import 'package:getx_app/pages/dashboard/dashboard_page.dart';
 import 'package:getx_app/pages/splash/splash_controller.dart';
 
 class SplashPage extends GetView<SplashController> {
-  final SplashController logic = Get.put(SplashController());
+  // final SplashController logic = Get.put(SplashController());
 
 
   @override

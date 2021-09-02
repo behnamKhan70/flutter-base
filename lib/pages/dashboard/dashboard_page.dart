@@ -9,7 +9,7 @@ import 'package:getx_app/pages/posts/posts_page.dart';
 import 'dashboard_controller.dart';
 
 class DashboardPage extends StatelessWidget {
-  final DashboardController logic = Get.put(DashboardController());
+  // final DashboardController logic = Get.put(DashboardController());
 
   @override
   Widget build(BuildContext context) {
